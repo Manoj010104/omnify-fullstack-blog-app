@@ -1,5 +1,17 @@
 # Omnify Full-Stack Blog Application
 
+<!-- Demo Screenshots -->
+<p align="center">
+  <img src="WhatsApp Image 2025-06-11 at 18.54.28_0118a6ef.jpg" alt="Demo Screenshot 1" width="400"/>
+  <img src="WhatsApp Image 2025-06-11 at 18.54.28_877360fb.jpg" alt="Demo Screenshot 2" width="400"/>
+  <img src="WhatsApp Image 2025-06-11 at 18.54.29_a06d7c51.jpg" alt="Demo Screenshot 3" width="400"/>
+  <img src="WhatsApp Image 2025-06-11 at 18.54.29_b4ade554.jpg" alt="Demo Screenshot 4" width="400"/>
+  <img src="WhatsApp Image 2025-06-11 at 18.54.29_de060f3a.jpg" alt="Demo Screenshot 5" width="400"/>
+  <img src="WhatsApp Image 2025-06-11 at 18.54.30_4449dc4d.jpg" alt="Demo Screenshot 6" width="400"/>
+  <img src="WhatsApp Image 2025-06-11 at 18.54.30_d947fa64.jpg" alt="Demo Screenshot 7" width="400"/>
+  <img src="WhatsApp Image 2025-06-11 at 18.54.30_e8a0b7b4.jpg" alt="Demo Screenshot 8" width="400"/>
+</p>
+
 A modern, responsive blog platform built with React (frontend) and Django REST Framework (backend), allowing users to create, view, and manage blog posts with robust authentication and a focus on maintainability and cloud deployment.
 
 ---
