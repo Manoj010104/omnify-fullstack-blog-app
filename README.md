@@ -1,17 +1,15 @@
 # Omnify Full-Stack Blog Application
 
-<!-- Demo Screenshots -->
-<p align="center">
-  <img src="WhatsApp Image 2025-06-11 at 18.54.28_0118a6ef.jpg" alt="Demo Screenshot 1" width="400"/>
-  <img src="WhatsApp Image 2025-06-11 at 18.54.28_877360fb.jpg" alt="Demo Screenshot 2" width="400"/>
-  <img src="WhatsApp Image 2025-06-11 at 18.54.29_a06d7c51.jpg" alt="Demo Screenshot 3" width="400"/>
-  <img src="WhatsApp Image 2025-06-11 at 18.54.29_b4ade554.jpg" alt="Demo Screenshot 4" width="400"/>
-  <img src="WhatsApp Image 2025-06-11 at 18.54.29_de060f3a.jpg" alt="Demo Screenshot 5" width="400"/>
-  <img src="WhatsApp Image 2025-06-11 at 18.54.30_4449dc4d.jpg" alt="Demo Screenshot 6" width="400"/>
-  <img src="WhatsApp Image 2025-06-11 at 18.54.30_d947fa64.jpg" alt="Demo Screenshot 7" width="400"/>
-  <img src="WhatsApp Image 2025-06-11 at 18.54.30_e8a0b7b4.jpg" alt="Demo Screenshot 8" width="400"/>
-</p>
+## WhatsApp Gallery
 
+![WhatsApp Image 1](frontend/public/WhatsApp%20Image%202025-06-11%20at%2018.54.28_0118a6ef.jpg)
+![WhatsApp Image 2](frontend/public/WhatsApp%20Image%202025-06-11%20at%2018.54.28_877360fb.jpg)
+![WhatsApp Image 3](frontend/public/WhatsApp%20Image%202025-06-11%20at%2018.54.29_a06d7c51.jpg)
+![WhatsApp Image 4](frontend/public/WhatsApp%20Image%202025-06-11%20at%2018.54.29_b4ade554.jpg)
+![WhatsApp Image 5](frontend/public/WhatsApp%20Image%202025-06-11%20at%2018.54.29_de060f3a.jpg)
+![WhatsApp Image 6](frontend/public/WhatsApp%20Image%202025-06-11%20at%2018.54.30_4449dc4d.jpg)
+![WhatsApp Image 7](frontend/public/WhatsApp%20Image%202025-06-11%20at%2018.54.30_d947fa64.jpg)
+![WhatsApp Image 8](frontend/public/WhatsApp%20Image%202025-06-11%20at%2018.54.30_e8a0b7b4.jpg)
 A modern, responsive blog platform built with React (frontend) and Django REST Framework (backend), allowing users to create, view, and manage blog posts with robust authentication and a focus on maintainability and cloud deployment.
 
 ---
