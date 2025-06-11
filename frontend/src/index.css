@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles for a polished look */
+@keyframes fade-in-down {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-down {
+  animation: fade-in-down 1s ease-out;
+}
+body {
+  font-family: 'Inter', sans-serif; /* Example: Use a modern font */
+  background-color: #f8fafc; /* Light gray background */
+  color: #334155; /* Dark gray for main text */
+}
+
+/* For better-looking prose/content on detail pages */
+.prose {
+  color: #1f2937;
+  line-height: 1.75;
+}
+.prose h1, .prose h2, .prose h3, .prose h4 {
+  color: #1a202c;
+  font-weight: 700;
+}
+.prose p {
+  margin-bottom: 1em;
+}
+.prose img {
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Custom utility for line clamping (already in Tailwind 3.x, but explicit if older) */
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

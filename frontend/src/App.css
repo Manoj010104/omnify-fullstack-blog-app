@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles for a visually appealing look */
+body {
+  font-family: 'Inter', sans-serif; /* Recommended modern font */
+  background-color: #f8fafc; /* Light gray background for contrast */
+  color: #334155; /* Dark gray for main text, ensuring readability */
+  scroll-behavior: smooth; /* Smooth scrolling for better UX */
+}
+
+/* Enhancements for prose/content (detail pages) */
+.prose {
+  color: #1f2937; /* Slightly darker text for content */
+  line-height: 1.75; /* Improved line spacing for readability */
+}
+.prose h1, .prose h2, .prose h3, .prose h4 {
+  color: #1a202c; /* Even darker headings */
+  font-weight: 700; /* Bold headings */
+}
+.prose p {
+  margin-bottom: 1em; /* Consistent paragraph spacing */
+}
+.prose img {
+  border-radius: 0.5rem; /* Soften image corners */
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06); /* Subtle depth to images */
+}
+
+/* Custom utility for line clamping (already in Tailwind 3.x, but explicit if older) */
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
